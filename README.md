@@ -1,6 +1,6 @@
 # react-boilerplate-ts
 
-A TypScript React Boilerplate with Webpack and Babel.
+A TypScript React Boilerplate with Webpack Babel, CoreJS, and Sass.
 
 ## Development Build
 
